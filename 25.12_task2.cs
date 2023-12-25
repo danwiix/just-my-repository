@@ -12,7 +12,7 @@ double ab = a * b;
 
 double a_b = a / b;
 
-double a_b2 = a_b % ;
+double a_b2 = a % b;
 
 Console.WriteLine($"Сумма:{ab_sum}" + $"\nПроизведение:{ab}" + $"\nЧастноe:{a_b}" 
     + $"\nОстаток:{a_b2}");
